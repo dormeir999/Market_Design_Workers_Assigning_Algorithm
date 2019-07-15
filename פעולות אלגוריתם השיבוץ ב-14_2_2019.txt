@@ -1,0 +1,3652 @@
+﻿The chosen worker is Worker_A ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       1    0      0      0      1
+10:00-11:00      1    0      0      0      1
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 9:00-10:00 ביום חמישי
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_A
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_A
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       1    0      0      0     11
+10:00-11:00      1    0      0      0     11
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5      1
+13:00-14:00      0    0      2      5      1
+14:00-15:00      0    0      2      5      1
+15:00-16:00      0    0      2      5      1
+16:00-17:00      0    0      2      5      1
+17:00-18:00      0    0      0      3      1
+18:00-19:00      0    0      0      3      1
+19:00-20:00      0    0      0      3      1
+20:00-21:00      0    0      0      3      1
+21:00-22:00      0    0      0      3      1
+העובד רוצה את שעה 12:00-13:00 ביום חמישי
+This hour is assigned to:
+[0, 0, 0, 0]
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5     11
+13:00-14:00      0    0      2      5     11
+14:00-15:00      0    0      2      5     11
+15:00-16:00      0    0      2      5     11
+16:00-17:00      0    0      2      5     11
+17:00-18:00      0    0      0      3     11
+18:00-19:00      0    0      0      3     11
+19:00-20:00      0    0      0      3     11
+20:00-21:00      0    0      0      3      1
+21:00-22:00      0    0      0      3      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_C  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0    1      1      0      0
+11:00-12:00      0    1      1      0      0
+12:00-13:00      0    1      1      0      0
+13:00-14:00      1    1      1      0      0
+14:00-15:00      1    1      1      0      0
+15:00-16:00      1    1      1      0      0
+16:00-17:00      1    1      1      0      0
+17:00-18:00      1    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 13:00-14:00 ביום ראשון
+This hour is assigned to:
+[0, 0, 0, 0]
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0    1      1      0      0
+11:00-12:00      0    1      1      0      0
+12:00-13:00      0    1      1      0      0
+13:00-14:00     11    1      1      0      0
+14:00-15:00     11    1      1      0      0
+15:00-16:00     11    1      1      0      0
+16:00-17:00     11    1      1      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_E ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1    0      1      0      0
+9:00-10:00       1    0      1      0      1
+10:00-11:00      1    0      1      0      1
+11:00-12:00      1    0      1      0      1
+12:00-13:00      1    0      1      0      1
+13:00-14:00      1    0      1      0      1
+14:00-15:00      1    0      1      0      1
+15:00-16:00      1    0      1      0      1
+16:00-17:00      0    0      1      0      1
+17:00-18:00      0    0      0      0      1
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 7:30-9:00 ביום ראשון
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11    0      1      0      0
+9:00-10:00      11    0      1      0      1
+10:00-11:00     11    0      1      0      1
+11:00-12:00     11    0      1      0      1
+12:00-13:00     11    0      1      0      1
+13:00-14:00     11    0      1      0      1
+14:00-15:00     11    0      1      0      1
+15:00-16:00     11    0      1      0      1
+16:00-17:00      0    0      1      0      1
+17:00-18:00      0    0      0      0      1
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_F ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     10   10     10      1      0
+19:00-20:00     10   10     10      1      0
+20:00-21:00     10   10     10      1      0
+21:00-22:00     10   10     10      1      0
+העובד רוצה את שעה 18:00-19:00 ביום רביעי
+This hour is assigned to:
+[0, 0, 0, 0]
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     10   10     10     11      0
+19:00-20:00     10   10     10     11      0
+20:00-21:00     10   10     10     11      0
+21:00-22:00     10   10     10     11      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_G ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      1
+10:00-11:00      0    0      0      0      1
+11:00-12:00      0    0      0      1      1
+12:00-13:00      0    0      0      1      1
+13:00-14:00      0    0      0      1      1
+14:00-15:00      0    0      0      1      1
+15:00-16:00      0    0      0      1      1
+16:00-17:00      0    0      0      1      1
+17:00-18:00      0    0      0      1      1
+18:00-19:00      0    0      0      1      1
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 9:00-10:00 ביום חמישי
+This hour is assigned to:
+['Worker_A', 0]
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0     11
+10:00-11:00      0    0      0      0     11
+11:00-12:00      0    0      0      1     11
+12:00-13:00      0    0      0      1     11
+13:00-14:00      0    0      0      1     11
+14:00-15:00      0    0      0      1     11
+15:00-16:00      0    0      0      1     11
+16:00-17:00      0    0      0      1     11
+17:00-18:00      0    0      0      1      1
+18:00-19:00      0    0      0      1      1
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_H ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      1      0      1
+9:00-10:00       0    1      1      0      1
+10:00-11:00      0    1      1      0      1
+11:00-12:00      0    1      1      1      1
+12:00-13:00      0    1      1      1      1
+13:00-14:00      0    1      1      1      1
+14:00-15:00      0    1      1      1      1
+15:00-16:00      0    1      1      1      1
+16:00-17:00      0    1      1      1      0
+17:00-18:00      0    1      1      1      0
+18:00-19:00      0    1      1      1      0
+19:00-20:00      0    1      0      1      0
+20:00-21:00      0    1      0      1      0
+21:00-22:00      0    1      0      1      0
+העובד רוצה את שעה 7:30-9:00 ביום שלישי
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0      1
+9:00-10:00       0    1     11      0      1
+10:00-11:00      0    1     11      0      1
+11:00-12:00      0    1     11      1      1
+12:00-13:00      0    1     11      1      1
+13:00-14:00      0    1     11      1      1
+14:00-15:00      0    1     11      1      1
+15:00-16:00      0    1     11      1      1
+16:00-17:00      0    1      1      1      0
+17:00-18:00      0    1      1      1      0
+18:00-19:00      0    1      1      1      0
+19:00-20:00      0    1      0      1      0
+20:00-21:00      0    1      0      1      0
+21:00-22:00      0    1      0      1      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    1      0      0      0
+21:00-22:00      0    1      0      0      0
+העובד רוצה את שעה 20:00-21:00 ביום שני
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_J
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+The hour is available, giving it to Worker_J
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0   11      0      0      0
+21:00-22:00      0   11      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      1    1      1      1      1
+12:00-13:00      1    1      1      1      1
+13:00-14:00      1    1      1      1      1
+14:00-15:00      1    1      1      1      1
+15:00-16:00      1    1      1      1      1
+16:00-17:00      1    1      1      1      1
+17:00-18:00      1    1      1      1      1
+18:00-19:00      1    1      1      1      1
+19:00-20:00      1    1      1      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+העובד רוצה את שעה 11:00-12:00 ביום ראשון
+This hour is assigned to:
+['Worker_E', 0, 0, 0]
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11    1      1      1      1
+12:00-13:00     11    1      1      1      1
+13:00-14:00     11    1      1      1      1
+14:00-15:00     11    1      1      1      1
+15:00-16:00     11    1      1      1      1
+16:00-17:00     11    1      1      1      1
+17:00-18:00     11    1      1      1      1
+18:00-19:00     11    1      1      1      1
+19:00-20:00      1    1      1      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0      1      0      0
+13:00-14:00      8    0      1      0      0
+14:00-15:00      8    0      1      0      0
+15:00-16:00      8    0      1      0      0
+16:00-17:00      8    0      1      0      7
+17:00-18:00      8    0      1      0      7
+18:00-19:00      0    0      6      0      7
+19:00-20:00      0    0      6      0      7
+20:00-21:00      0    0      6      0      7
+21:00-22:00      0    0      6      0      7
+העובד רוצה את שעה 12:00-13:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 0, 0, 0]
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0     11      0      0
+13:00-14:00      8    0     11      0      0
+14:00-15:00      8    0     11      0      0
+15:00-16:00      8    0     11      0      0
+16:00-17:00      8    0     11      0      7
+17:00-18:00      8    0     11      0      7
+18:00-19:00      0    0      6      0      7
+19:00-20:00      0    0      6      0      7
+20:00-21:00      0    0      6      0      7
+21:00-22:00      0    0      6      0      7
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1    1      1      1      1
+9:00-10:00       1    1      1      1      1
+10:00-11:00      1    1      1      1      1
+11:00-12:00      1    1      1      1      1
+12:00-13:00      1    1      1      1      1
+13:00-14:00      1    1      1      1      1
+14:00-15:00      1    1      1      1      1
+15:00-16:00      1    1      1      1      1
+16:00-17:00      1    1      1      1      1
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+העובד רוצה את שעה 7:30-9:00 ביום שני
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11      1      1      1
+9:00-10:00       1   11      1      1      1
+10:00-11:00      1   11      1      1      1
+11:00-12:00      1   11      1      1      1
+12:00-13:00      1   11      1      1      1
+13:00-14:00      1   11      1      1      1
+14:00-15:00      1   11      1      1      1
+15:00-16:00      1   11      1      1      1
+16:00-17:00      1    1      1      1      1
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_N ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    1      1      2      0
+9:00-10:00       0    1      1      2      0
+10:00-11:00      0    1      1      2      0
+11:00-12:00      0    0      1      2      0
+12:00-13:00      0    0      1      2      0
+13:00-14:00      0    0      1      2      0
+14:00-15:00      0    0      0      2      0
+15:00-16:00      0    0      0      2      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+העובד רוצה את שעה 7:30-9:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 0]
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    1     11      2      0
+9:00-10:00       0    1     11      2      0
+10:00-11:00      0    1     11      2      0
+11:00-12:00      0    0     11      2      0
+12:00-13:00      0    0     11      2      0
+13:00-14:00      0    0     11      2      0
+14:00-15:00      0    0      0      2      0
+15:00-16:00      0    0      0      2      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_N ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    1     11      2      0
+9:00-10:00       0    1     11      2      0
+10:00-11:00      0    1     11      2      0
+11:00-12:00      0    0     11      2      0
+12:00-13:00      0    0     11      2      0
+13:00-14:00      0    0     11      2      0
+14:00-15:00      0    0      0      2      0
+15:00-16:00      0    0      0      2      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+העובד רוצה את שעה 7:30-9:00 ביום שני
+This hour is assigned to:
+['Worker_M', 0]
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   11     11      2      0
+9:00-10:00       0   11     11      2      0
+10:00-11:00      0   11     11      2      0
+11:00-12:00      0    0     11      2      0
+12:00-13:00      0    0     11      2      0
+13:00-14:00      0    0     11      2      0
+14:00-15:00      0    0      0      2      0
+15:00-16:00      0    0      0      2      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_A ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       1    0      0      0     11
+10:00-11:00      1    0      0      0     11
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 9:00-10:00 ביום ראשון
+This hour is assigned to:
+['Worker_E', 0]
+The hour is available, giving it to Worker_A
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_A
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00      11    0      0      0     11
+10:00-11:00     11    0      0      0     11
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11      1      1      1
+9:00-10:00       1   11      1      1      1
+10:00-11:00      1   11      1      1      1
+11:00-12:00      1   11      1      1      1
+12:00-13:00      1   11      1      1      1
+13:00-14:00      1   11      1      1      1
+14:00-15:00      1   11      1      1      1
+15:00-16:00      1   11      1      1      1
+16:00-17:00      1    1      1      1      1
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+העובד רוצה את שעה 7:30-9:00 ביום חמישי
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11      1      1     11
+9:00-10:00       1   11      1      1     -1
+10:00-11:00      1   11      1      1     11
+11:00-12:00      1   11      1      1     11
+12:00-13:00      1   11      1      1     11
+13:00-14:00      1   11      1      1     11
+14:00-15:00      1   11      1      1     11
+15:00-16:00      1   11      1      1     11
+16:00-17:00      1    1      1      1     11
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5     11
+13:00-14:00      0    0      2      5     11
+14:00-15:00      0    0      2      5     11
+15:00-16:00      0    0      2      5     11
+16:00-17:00      0    0      2      5     11
+17:00-18:00      0    0      0      3     11
+18:00-19:00      0    0      0      3     11
+19:00-20:00      0    0      0      3     11
+20:00-21:00      0    0      0      3      1
+21:00-22:00      0    0      0      3      1
+העובד רוצה את שעה 13:00-14:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_Iה', 'Worker_N', 0]
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5     11
+13:00-14:00      0    0     12      5     11
+14:00-15:00      0    0     12      5     11
+15:00-16:00      0    0     12      5     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0      3     11
+18:00-19:00      0    0      0      3     11
+19:00-20:00      0    0      0      3     11
+20:00-21:00      0    0      0      3      1
+21:00-22:00      0    0      0      3      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11    1      1      1      1
+12:00-13:00     11    1      1      1      1
+13:00-14:00     11    1      1      1      1
+14:00-15:00     11    1      1      1      1
+15:00-16:00     11    1      1      1      1
+16:00-17:00     11    1      1      1      1
+17:00-18:00     11    1      1      1      1
+18:00-19:00     11    1      1      1      1
+19:00-20:00      1    1      1      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+העובד רוצה את שעה 11:00-12:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_N', 0, 0]
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11    1     11      1      1
+12:00-13:00     11    1     11      1      1
+13:00-14:00     11    1     -1      1      1
+14:00-15:00     11    1     11      1      1
+15:00-16:00     11    1     11      1      1
+16:00-17:00     11    1     11      1      1
+17:00-18:00     11    1     11      1      1
+18:00-19:00     11    1     11      1      1
+19:00-20:00      1    1     11      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_G ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0     11
+10:00-11:00      0    0      0      0     11
+11:00-12:00      0    0      0      1     11
+12:00-13:00      0    0      0      1     11
+13:00-14:00      0    0      0      1     11
+14:00-15:00      0    0      0      1     11
+15:00-16:00      0    0      0      1     11
+16:00-17:00      0    0      0      1     11
+17:00-18:00      0    0      0      1      1
+18:00-19:00      0    0      0      1      1
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 11:00-12:00 ביום רביעי
+This hour is assigned to:
+[0, 0, 0, 0]
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0     11
+10:00-11:00      0    0      0      0     11
+11:00-12:00      0    0      0     11     11
+12:00-13:00      0    0      0     11     11
+13:00-14:00      0    0      0     11     11
+14:00-15:00      0    0      0     11     11
+15:00-16:00      0    0      0     11     11
+16:00-17:00      0    0      0     11     11
+17:00-18:00      0    0      0     11      1
+18:00-19:00      0    0      0     11      1
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_C  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0    1      1      0      0
+11:00-12:00      0    1      1      0      0
+12:00-13:00      0    1      1      0      0
+13:00-14:00     11    1      1      0      0
+14:00-15:00     11    1      1      0      0
+15:00-16:00     11    1      1      0      0
+16:00-17:00     11    1      1      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 10:00-11:00 ביום שני
+This hour is assigned to:
+['Worker_M', 'Worker_N', 0, 0]
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0   11      1      0      0
+11:00-12:00      0   11      1      0      0
+12:00-13:00      0   11      1      0      0
+13:00-14:00     11   11      1      0      0
+14:00-15:00     11   11      1      0      0
+15:00-16:00     11   11      1      0      0
+16:00-17:00     11   11      1      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_F ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     10   10     10     11      0
+19:00-20:00     10   10     10     11      0
+20:00-21:00     10   10     10     11      0
+21:00-22:00     10   10     10     11      0
+העובד רוצה את שעה 18:00-19:00 ביום שני
+This hour is assigned to:
+[0, 0, 0, 0]
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     10   20     10     11      0
+19:00-20:00     10   20     10     11      0
+20:00-21:00     10   20     10     11      0
+21:00-22:00     10   20     10     11      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0     11      0      0
+13:00-14:00      8    0     11      0      0
+14:00-15:00      8    0     11      0      0
+15:00-16:00      8    0     11      0      0
+16:00-17:00      8    0     11      0      7
+17:00-18:00      8    0     11      0      7
+18:00-19:00      0    0      6      0      7
+19:00-20:00      0    0      6      0      7
+20:00-21:00      0    0      6      0      7
+21:00-22:00      0    0      6      0      7
+העובד רוצה את שעה 18:00-19:00 ביום שלישי
+This hour is assigned to:
+['חוה', 0, 0, 0]
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0     11      0      0
+13:00-14:00      8    0     11      0      0
+14:00-15:00      8    0     11      0      0
+15:00-16:00      8    0     11      0      0
+16:00-17:00      8    0     11      0      7
+17:00-18:00      8    0     11      0      7
+18:00-19:00      0    0     16      0      7
+19:00-20:00      0    0     16      0      7
+20:00-21:00      0    0      6      0      7
+21:00-22:00      0    0      6      0      7
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_H ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0      1
+9:00-10:00       0    1     11      0      1
+10:00-11:00      0    1     11      0      1
+11:00-12:00      0    1     11      1      1
+12:00-13:00      0    1     11      1      1
+13:00-14:00      0    1     11      1      1
+14:00-15:00      0    1     11      1      1
+15:00-16:00      0    1     11      1      1
+16:00-17:00      0    1      1      1      0
+17:00-18:00      0    1      1      1      0
+18:00-19:00      0    1      1      1      0
+19:00-20:00      0    1      0      1      0
+20:00-21:00      0    1      0      1      0
+21:00-22:00      0    1      0      1      0
+העובד רוצה את שעה 7:30-9:00 ביום חמישי
+This hour is assigned to:
+['Worker_M', 0]
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0    1     11      0     -1
+10:00-11:00      0    1     11      0     11
+11:00-12:00      0    1     11      1     11
+12:00-13:00      0    1     11      1     11
+13:00-14:00      0    1     11      1     11
+14:00-15:00      0    1     11      1     11
+15:00-16:00      0    1     11      1     11
+16:00-17:00      0    1      1      1      0
+17:00-18:00      0    1      1      1      0
+18:00-19:00      0    1      1      1      0
+19:00-20:00      0    1      0      1      0
+20:00-21:00      0    1      0      1      0
+21:00-22:00      0    1      0      1      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_E ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11    0      1      0      0
+9:00-10:00      11    0      1      0      1
+10:00-11:00     11    0      1      0      1
+11:00-12:00     11    0      1      0      1
+12:00-13:00     11    0      1      0      1
+13:00-14:00     11    0      1      0      1
+14:00-15:00     11    0      1      0      1
+15:00-16:00     11    0      1      0      1
+16:00-17:00      0    0      1      0      1
+17:00-18:00      0    0      0      0      1
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 7:30-9:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_N']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11    0     -1      0      0
+9:00-10:00      11    0     -1      0      1
+10:00-11:00     11    0     11      0      1
+11:00-12:00     11    0     11      0      1
+12:00-13:00     11    0     -1      0      1
+13:00-14:00     11    0     -1      0      1
+14:00-15:00     11    0     11      0      1
+15:00-16:00     11    0     11      0      1
+16:00-17:00      0    0     11      0      1
+17:00-18:00      0    0      0      0      1
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_C  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0   11      1      0      0
+11:00-12:00      0   11      1      0      0
+12:00-13:00      0   11      1      0      0
+13:00-14:00     11   11      1      0      0
+14:00-15:00     11   11      1      0      0
+15:00-16:00     11   11      1      0      0
+16:00-17:00     11   11      1      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 10:00-11:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_N', 'Worker_E', 0]
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_C 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0   11     11      0      0
+11:00-12:00      0   11     -1      0      0
+12:00-13:00      0   11     -1      0      0
+13:00-14:00     11   11     -1      0      0
+14:00-15:00     11   11     11      0      0
+15:00-16:00     11   11     11      0      0
+16:00-17:00     11   11     11      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_N ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   11     11      2      0
+9:00-10:00       0   11     11      2      0
+10:00-11:00      0   11     11      2      0
+11:00-12:00      0    0     11      2      0
+12:00-13:00      0    0     11      2      0
+13:00-14:00      0    0     11      2      0
+14:00-15:00      0    0      0      2      0
+15:00-16:00      0    0      0      2      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+העובד רוצה את שעה 7:30-9:00 ביום רביעי
+This hour is assigned to:
+[0, 0]
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   11     11     12      0
+9:00-10:00       0   11     11     12      0
+10:00-11:00      0   11     11     12      0
+11:00-12:00      0    0     11     12      0
+12:00-13:00      0    0     11     12      0
+13:00-14:00      0    0     11     12      0
+14:00-15:00      0    0      0     12      0
+15:00-16:00      0    0      0     12      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_G ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0     11
+10:00-11:00      0    0      0      0     11
+11:00-12:00      0    0      0     11     11
+12:00-13:00      0    0      0     11     11
+13:00-14:00      0    0      0     11     11
+14:00-15:00      0    0      0     11     11
+15:00-16:00      0    0      0     11     11
+16:00-17:00      0    0      0     11     11
+17:00-18:00      0    0      0     11      1
+18:00-19:00      0    0      0     11      1
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 17:00-18:00 ביום חמישי
+This hour is assigned to:
+['Worker_B ', 0, 0, 0, 0, 0]
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_G
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0     11
+10:00-11:00      0    0      0      0     11
+11:00-12:00      0    0      0     11     11
+12:00-13:00      0    0      0     11     11
+13:00-14:00      0    0      0     11     11
+14:00-15:00      0    0      0     11     11
+15:00-16:00      0    0      0     11     11
+16:00-17:00      0    0      0     11     11
+17:00-18:00      0    0      0     11     11
+18:00-19:00      0    0      0     11     11
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11    1     11      1      1
+12:00-13:00     11    1     11      1      1
+13:00-14:00     11    1     -1      1      1
+14:00-15:00     11    1     11      1      1
+15:00-16:00     11    1     11      1      1
+16:00-17:00     11    1     11      1      1
+17:00-18:00     11    1     11      1      1
+18:00-19:00     11    1     11      1      1
+19:00-20:00      1    1     11      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+העובד רוצה את שעה 11:00-12:00 ביום רביעי
+This hour is assigned to:
+['Worker_G', 'Worker_N', 0, 0]
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11    1     11     11      1
+12:00-13:00     11    1     11     11      1
+13:00-14:00     11    1     -1     11      1
+14:00-15:00     11    1     11     11      1
+15:00-16:00     11    1     11     11      1
+16:00-17:00     11    1     11     11      1
+17:00-18:00     11    1     11     11      1
+18:00-19:00     11    1     11     11      1
+19:00-20:00      1    1     11      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_F ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     10   20     10     11      0
+19:00-20:00     10   20     10     11      0
+20:00-21:00     10   20     10     11      0
+21:00-22:00     10   20     10     11      0
+העובד רוצה את שעה 18:00-19:00 ביום ראשון
+This hour is assigned to:
+['חוה', 0, 0, 0]
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     20   20     10     11      0
+19:00-20:00     20   20     10     11      0
+20:00-21:00     20   20     10     11      0
+21:00-22:00     20   20     10     11      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_E ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11    0     -1      0      0
+9:00-10:00      11    0     -1      0      1
+10:00-11:00     11    0     11      0      1
+11:00-12:00     11    0     11      0      1
+12:00-13:00     11    0     -1      0      1
+13:00-14:00     11    0     -1      0      1
+14:00-15:00     11    0     11      0      1
+15:00-16:00     11    0     11      0      1
+16:00-17:00      0    0     11      0      1
+17:00-18:00      0    0      0      0      1
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 9:00-10:00 ביום חמישי
+This hour is assigned to:
+['Worker_A', 'Worker_G']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_E
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11    0     -1      0      0
+9:00-10:00      11    0     -1      0     -1
+10:00-11:00     11    0     11      0     -1
+11:00-12:00     11    0     11      0     11
+12:00-13:00     11    0     -1      0     -1
+13:00-14:00     11    0     -1      0     -1
+14:00-15:00     11    0     11      0     11
+15:00-16:00     11    0     11      0     11
+16:00-17:00      0    0     11      0     11
+17:00-18:00      0    0      0      0     11
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11      1      1     11
+9:00-10:00       1   11      1      1     -1
+10:00-11:00      1   11      1      1     11
+11:00-12:00      1   11      1      1     11
+12:00-13:00      1   11      1      1     11
+13:00-14:00      1   11      1      1     11
+14:00-15:00      1   11      1      1     11
+15:00-16:00      1   11      1      1     11
+16:00-17:00      1    1      1      1     11
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+העובד רוצה את שעה 7:30-9:00 ביום רביעי
+This hour is assigned to:
+['Worker_N', 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11      1     11     11
+9:00-10:00       1   11      1     11     -1
+10:00-11:00      1   11      1     11     11
+11:00-12:00      1   11      1     11     11
+12:00-13:00      1   11      1     11     11
+13:00-14:00      1   11      1     11     11
+14:00-15:00      1   11      1     11     11
+15:00-16:00      1   11      1     11     11
+16:00-17:00      1    1      1      1     11
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0     11      0      0
+13:00-14:00      8    0     11      0      0
+14:00-15:00      8    0     11      0      0
+15:00-16:00      8    0     11      0      0
+16:00-17:00      8    0     11      0      7
+17:00-18:00      8    0     11      0      7
+18:00-19:00      0    0     16      0      7
+19:00-20:00      0    0     16      0      7
+20:00-21:00      0    0      6      0      7
+21:00-22:00      0    0      6      0      7
+העובד רוצה את שעה 16:00-17:00 ביום חמישי
+This hour is assigned to:
+['Worker_B ', 'Worker_G', 'Worker_M', 'Worker_E', 0, 0]
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0     11      0      0
+13:00-14:00      8    0     11      0      0
+14:00-15:00      8    0     11      0      0
+15:00-16:00      8    0     11      0      0
+16:00-17:00      8    0     11      0     17
+17:00-18:00      8    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0      6      0     17
+21:00-22:00      0    0      6      0     17
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5     11
+13:00-14:00      0    0     12      5     11
+14:00-15:00      0    0     12      5     11
+15:00-16:00      0    0     12      5     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0      3     11
+18:00-19:00      0    0      0      3     11
+19:00-20:00      0    0      0      3     11
+20:00-21:00      0    0      0      3      1
+21:00-22:00      0    0      0      3      1
+העובד רוצה את שעה 17:00-18:00 ביום רביעי
+This hour is assigned to:
+['Worker_G', 'חוה', 0, 0, 0, 0]
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5     11
+13:00-14:00      0    0     12      5     11
+14:00-15:00      0    0     12      5     11
+15:00-16:00      0    0     12      5     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13      1
+21:00-22:00      0    0      0     13      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_H ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0    1     11      0     -1
+10:00-11:00      0    1     11      0     11
+11:00-12:00      0    1     11      1     11
+12:00-13:00      0    1     11      1     11
+13:00-14:00      0    1     11      1     11
+14:00-15:00      0    1     11      1     11
+15:00-16:00      0    1     11      1     11
+16:00-17:00      0    1      1      1      0
+17:00-18:00      0    1      1      1      0
+18:00-19:00      0    1      1      1      0
+19:00-20:00      0    1      0      1      0
+20:00-21:00      0    1      0      1      0
+21:00-22:00      0    1      0      1      0
+העובד רוצה את שעה 11:00-12:00 ביום רביעי
+This hour is assigned to:
+['Worker_G', 'Worker_N', 'חוה', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0    1     11      0     -1
+10:00-11:00      0    1     11      0     11
+11:00-12:00      0    1     11     -1     11
+12:00-13:00      0    1     11     -1     11
+13:00-14:00      0    1     11     -1     11
+14:00-15:00      0    1     11     11     11
+15:00-16:00      0    1     11     11     11
+16:00-17:00      0    1      1     11      0
+17:00-18:00      0    1      1     11      0
+18:00-19:00      0    1      1     -1      0
+19:00-20:00      0    1      0     -1      0
+20:00-21:00      0    1      0     -1      0
+21:00-22:00      0    1      0     -1      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_F ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     20   20     10     11      0
+19:00-20:00     20   20     10     11      0
+20:00-21:00     20   20     10     11      0
+21:00-22:00     20   20     10     11      0
+העובד רוצה את שעה 18:00-19:00 ביום שלישי
+This hour is assigned to:
+['חוה', 'Worker_Iה', 0, 0]
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+The hour is available, giving it to Worker_F
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00      0    0      0      0      0
+12:00-13:00      0    0      0      0      0
+13:00-14:00      0    0      0      0      0
+14:00-15:00      0    0      0      0      0
+15:00-16:00      0    0      0      0      0
+16:00-17:00      0    0      0      0      0
+17:00-18:00      0    0      0      0      0
+18:00-19:00     20   20     20     11      0
+19:00-20:00     20   20    -10     11      0
+20:00-21:00     20   20     20     11      0
+21:00-22:00     20   20     20     11      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_N ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   11     11     12      0
+9:00-10:00       0   11     11     12      0
+10:00-11:00      0   11     11     12      0
+11:00-12:00      0    0     11     12      0
+12:00-13:00      0    0     11     12      0
+13:00-14:00      0    0     11     12      0
+14:00-15:00      0    0      0     12      0
+15:00-16:00      0    0      0     12      0
+16:00-17:00      0    0      0      2      0
+17:00-18:00      0    0      0      2      0
+18:00-19:00      0    0      0      2      0
+19:00-20:00      0    0      0      2      0
+20:00-21:00      0    0      0      2      0
+21:00-22:00      0    0      0      2      0
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 16:00-17:00 ביום רביעי
+This hour is assigned to:
+['Worker_G', 'חוה', 'Worker_H', 0, 0, 0]
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_N
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   11     11     12      0
+9:00-10:00       0   11     11     12      0
+10:00-11:00      0   11     11     12      0
+11:00-12:00      0    0     11     12      0
+12:00-13:00      0    0     11     12      0
+13:00-14:00      0    0     11     12      0
+14:00-15:00      0    0      0     12      0
+15:00-16:00      0    0      0     12      0
+16:00-17:00      0    0      0     12      0
+17:00-18:00      0    0      0     12      0
+18:00-19:00      0    0      0     -2      0
+19:00-20:00      0    0      0     -2      0
+20:00-21:00      0    0      0     -2      0
+21:00-22:00      0    0      0     -2      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11      1     11     11
+9:00-10:00       1   11      1     11     -1
+10:00-11:00      1   11      1     11     11
+11:00-12:00      1   11      1     11     11
+12:00-13:00      1   11      1     11     11
+13:00-14:00      1   11      1     11     11
+14:00-15:00      1   11      1     11     11
+15:00-16:00      1   11      1     11     11
+16:00-17:00      1    1      1      1     11
+17:00-18:00      1    1      1      1     10
+18:00-19:00      1    1      1      1     10
+19:00-20:00      1    1      1      1     10
+20:00-21:00      1    1      1      1     10
+21:00-22:00      1    1      1      1     10
+העובד רוצה את שעה 7:30-9:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_N']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11     -1     11     11
+9:00-10:00       1   11     -1     11     -1
+10:00-11:00      1   11     -1     11     11
+11:00-12:00      1   11     -1     11     11
+12:00-13:00      1   11     -1     11     11
+13:00-14:00      1   11     -1     11     11
+14:00-15:00      1   11     -1     11     11
+15:00-16:00      1   11     -1     11     11
+16:00-17:00      1    1     11      1     11
+17:00-18:00      1    1     11      1     10
+18:00-19:00      1    1     11      1     10
+19:00-20:00      1    1     -1      1     10
+20:00-21:00      1    1     11      1     10
+21:00-22:00      1    1     11      1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_C  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    2      2      0      0
+9:00-10:00       0    2      2      0      0
+10:00-11:00      0   11     11      0      0
+11:00-12:00      0   11     -1      0      0
+12:00-13:00      0   11     -1      0      0
+13:00-14:00     11   11     -1      0      0
+14:00-15:00     11   11     11      0      0
+15:00-16:00     11   11     11      0      0
+16:00-17:00     11   11     11      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 7:30-9:00 ביום שני
+This hour is assigned to:
+['Worker_M', 'Worker_N']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   -2      2      0      0
+9:00-10:00       0   -2      2      0      0
+10:00-11:00      0   11     11      0      0
+11:00-12:00      0   11     -1      0      0
+12:00-13:00      0   11     -1      0      0
+13:00-14:00     11   11     -1      0      0
+14:00-15:00     11   11     11      0      0
+15:00-16:00     11   11     11      0      0
+16:00-17:00     11   11     11      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00      8    0      0     10      0
+12:00-13:00      8    0     11      0      0
+13:00-14:00      8    0     11      0      0
+14:00-15:00      8    0     11      0      0
+15:00-16:00      8    0     11      0      0
+16:00-17:00      8    0     11      0     17
+17:00-18:00      8    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0      6      0     17
+21:00-22:00      0    0      6      0     17
+העובד רוצה את שעה 11:00-12:00 ביום ראשון
+This hour is assigned to:
+['Worker_E', 'חוה', 0, 0]
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00     18    0      0     10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0      6      0     17
+21:00-22:00      0    0      6      0     17
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11    1     11     11      1
+12:00-13:00     11    1     11     11      1
+13:00-14:00     11    1     -1     11      1
+14:00-15:00     11    1     11     11      1
+15:00-16:00     11    1     11     11      1
+16:00-17:00     11    1     11     11      1
+17:00-18:00     11    1     11     11      1
+18:00-19:00     11    1     11     11      1
+19:00-20:00      1    1     11      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+העובד רוצה את שעה 11:00-12:00 ביום שני
+This hour is assigned to:
+['Worker_M', 'Worker_C ', 0, 0]
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11      1
+12:00-13:00     11   11     11     11      1
+13:00-14:00     11   11     -1     11      1
+14:00-15:00     11   11     11     11      1
+15:00-16:00     11   11     11     11      1
+16:00-17:00     11   11     11     11      1
+17:00-18:00     11   11     11     11      1
+18:00-19:00     11   11     11     11      1
+19:00-20:00      1    1     11      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      5      0
+9:00-10:00       0    0      0      5      0
+10:00-11:00      0    0      0      5      0
+11:00-12:00      0    0      0      5      4
+12:00-13:00      0    0      0      5     11
+13:00-14:00      0    0     12      5     11
+14:00-15:00      0    0     12      5     11
+15:00-16:00      0    0     12      5     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13      1
+21:00-22:00      0    0      0     13      1
+העובד רוצה את שעה 7:30-9:00 ביום רביעי
+This hour is assigned to:
+['Worker_N', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5      4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13      1
+21:00-22:00      0    0      0     13      1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_H ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0    1     11      0     -1
+10:00-11:00      0    1     11      0     11
+11:00-12:00      0    1     11     -1     11
+12:00-13:00      0    1     11     -1     11
+13:00-14:00      0    1     11     -1     11
+14:00-15:00      0    1     11     11     11
+15:00-16:00      0    1     11     11     11
+16:00-17:00      0    1      1     11      0
+17:00-18:00      0    1      1     11      0
+18:00-19:00      0    1      1     -1      0
+19:00-20:00      0    1      0     -1      0
+20:00-21:00      0    1      0     -1      0
+21:00-22:00      0    1      0     -1      0
+העובד רוצה את שעה 9:00-10:00 ביום שני
+This hour is assigned to:
+['Worker_M', 'Worker_N']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0   -1     11      0     -1
+10:00-11:00      0   11     11      0     11
+11:00-12:00      0   11     11     -1     11
+12:00-13:00      0   11     11     -1     11
+13:00-14:00      0   11     11     -1     11
+14:00-15:00      0   11     11     11     11
+15:00-16:00      0   11     11     11     11
+16:00-17:00      0   11      1     11      0
+17:00-18:00      0   11      1     11      0
+18:00-19:00      0    1      1     -1      0
+19:00-20:00      0    1      0     -1      0
+20:00-21:00      0    1      0     -1      0
+21:00-22:00      0    1      0     -1      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_E ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_H ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0   -1     11      0     -1
+10:00-11:00      0   11     11      0     11
+11:00-12:00      0   11     11     -1     11
+12:00-13:00      0   11     11     -1     11
+13:00-14:00      0   11     11     -1     11
+14:00-15:00      0   11     11     11     11
+15:00-16:00      0   11     11     11     11
+16:00-17:00      0   11      1     11      0
+17:00-18:00      0   11      1     11      0
+18:00-19:00      0    1      1     -1      0
+19:00-20:00      0    1      0     -1      0
+20:00-21:00      0    1      0     -1      0
+21:00-22:00      0    1      0     -1      0
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 18:00-19:00 ביום שני
+This hour is assigned to:
+['Worker_F', 'חוה', 0, 0]
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0   -1     11      0     -1
+10:00-11:00      0   11     11      0     11
+11:00-12:00      0   11     11     -1     11
+12:00-13:00      0   11     11     -1     11
+13:00-14:00      0   11     11     -1     11
+14:00-15:00      0   11     11     11     11
+15:00-16:00      0   11     11     11     11
+16:00-17:00      0   11      1     11      0
+17:00-18:00      0   11      1     11      0
+18:00-19:00      0   11      1     -1      0
+19:00-20:00      0   11      0     -1      0
+20:00-21:00      0   -1      0     -1      0
+21:00-22:00      0   -1      0     -1      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_F ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        1   11     -1     11     11
+9:00-10:00       1   11     -1     11     -1
+10:00-11:00      1   11     -1     11     11
+11:00-12:00      1   11     -1     11     11
+12:00-13:00      1   11     -1     11     11
+13:00-14:00      1   11     -1     11     11
+14:00-15:00      1   11     -1     11     11
+15:00-16:00      1   11     -1     11     11
+16:00-17:00      1    1     11      1     11
+17:00-18:00      1    1     11      1     10
+18:00-19:00      1    1     11      1     10
+19:00-20:00      1    1     -1      1     10
+20:00-21:00      1    1     11      1     10
+21:00-22:00      1    1     11      1     10
+העובד רוצה את שעה 7:30-9:00 ביום ראשון
+This hour is assigned to:
+['Worker_E', 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+6
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+7
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+8
+After assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11    1     11      1     11
+17:00-18:00     11    1     11      1     10
+18:00-19:00      1    1     11      1     10
+19:00-20:00      1    1     -1      1     10
+20:00-21:00      1    1     11      1     10
+21:00-22:00      1    1     11      1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5      4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13      1
+21:00-22:00      0    0      0     13      1
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 20:00-21:00 ביום חמישי
+This hour is assigned to:
+['Worker_Iה', 0]
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5      4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13     11
+21:00-22:00      0    0      0     13     11
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_N ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_C  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   -2      2      0      0
+9:00-10:00       0   -2      2      0      0
+10:00-11:00      0   11     11      0      0
+11:00-12:00      0   11     -1      0      0
+12:00-13:00      0   11     -1      0      0
+13:00-14:00     11   11     -1      0      0
+14:00-15:00     11   11     11      0      0
+15:00-16:00     11   11     11      0      0
+16:00-17:00     11   11     11      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+העובד רוצה את שעה 7:30-9:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_N']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0   -2     -2      0      0
+9:00-10:00       0   -2     -2      0      0
+10:00-11:00      0   11     11      0      0
+11:00-12:00      0   11     -1      0      0
+12:00-13:00      0   11     -1      0      0
+13:00-14:00     11   11     -1      0      0
+14:00-15:00     11   11     11      0      0
+15:00-16:00     11   11     11      0      0
+16:00-17:00     11   11     11      0      0
+17:00-18:00     11    0      0      0      0
+18:00-19:00      0    0      0      0      0
+19:00-20:00      0    0      0      0      0
+20:00-21:00      0    0      0      0      0
+21:00-22:00      0    0      0      0      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_E ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11      1
+12:00-13:00     11   11     11     11      1
+13:00-14:00     11   11     -1     11      1
+14:00-15:00     11   11     11     11      1
+15:00-16:00     11   11     11     11      1
+16:00-17:00     11   11     11     11      1
+17:00-18:00     11   11     11     11      1
+18:00-19:00     11   11     11     11      1
+19:00-20:00      1    1     11      1      1
+20:00-21:00      1    1      1      1      1
+21:00-22:00      1    1      1      1      1
+העובד רוצה את שעה 11:00-12:00 ביום חמישי
+This hour is assigned to:
+['Worker_G', 'Worker_M', 'Worker_H', 'Worker_E']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+After assigning hour, check next hour
+The hour is available, giving it to חוה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+5
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00      1    1     11      1     -1
+20:00-21:00      1    1      1      1     -1
+21:00-22:00      1    1      1      1     -1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7     10      0
+9:00-10:00       0    0      7     10      0
+10:00-11:00      0    0      0     10      0
+11:00-12:00     18    0      0     10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0      6      0     17
+21:00-22:00      0    0      6      0     17
+העובד רוצה את שעה 7:30-9:00 ביום רביעי
+This hour is assigned to:
+['Worker_N', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_Iה
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7    -10      0
+9:00-10:00       0    0      7    -10      0
+10:00-11:00      0    0      0     20      0
+11:00-12:00     18    0      0    -10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0      6      0     17
+21:00-22:00      0    0      6      0     17
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_H ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0   -1     11      0     -1
+10:00-11:00      0   11     11      0     11
+11:00-12:00      0   11     11     -1     11
+12:00-13:00      0   11     11     -1     11
+13:00-14:00      0   11     11     -1     11
+14:00-15:00      0   11     11     11     11
+15:00-16:00      0   11     11     11     11
+16:00-17:00      0   11      1     11      0
+17:00-18:00      0   11      1     11      0
+18:00-19:00      0   11      1     -1      0
+19:00-20:00      0   11      0     -1      0
+20:00-21:00      0   -1      0     -1      0
+21:00-22:00      0   -1      0     -1      0
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 16:00-17:00 ביום שלישי
+This hour is assigned to:
+['Worker_Iה', 'Worker_B ', 'חוה', 'Worker_E', 'Worker_C ', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The hour is available, giving it to Worker_H
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     11      0     11
+9:00-10:00       0   -1     11      0     -1
+10:00-11:00      0   11     11      0     11
+11:00-12:00      0   11     11     -1     11
+12:00-13:00      0   11     11     -1     11
+13:00-14:00      0   11     11     -1     11
+14:00-15:00      0   11     11     11     11
+15:00-16:00      0   11     11     11     11
+16:00-17:00      0   11     -1     11      0
+17:00-18:00      0   11     11     11      0
+18:00-19:00      0   11     -1     -1      0
+19:00-20:00      0   11      0     -1      0
+20:00-21:00      0   -1      0     -1      0
+21:00-22:00      0   -1      0     -1      0
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7    -10      0
+9:00-10:00       0    0      7    -10      0
+10:00-11:00      0    0      0     20      0
+11:00-12:00     18    0      0    -10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0      6      0     17
+21:00-22:00      0    0      6      0     17
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 20:00-21:00 ביום שלישי
+This hour is assigned to:
+['Worker_F', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7    -10      0
+9:00-10:00       0    0      7    -10      0
+10:00-11:00      0    0      0     20      0
+11:00-12:00     18    0      0    -10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0     -6      0     17
+21:00-22:00      0    0     -6      0     17
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_N ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5      4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13     11
+21:00-22:00      0    0      0     13     11
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 11:00-12:00 ביום חמישי
+This hour is assigned to:
+['Worker_G', 'Worker_M', 'Worker_H', 'Worker_E']
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5     -4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13     11
+21:00-22:00      0    0      0     13     11
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_F ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_C  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00      1    1     11      1     -1
+20:00-21:00      1    1      1      1     -1
+21:00-22:00      1    1      1      1     -1
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 19:00-20:00 ביום רביעי
+This hour is assigned to:
+['Worker_F', 'Worker_B ']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00      1    1     11     -1     -1
+20:00-21:00      1    1      1     -1     -1
+21:00-22:00      1    1      1     -1     -1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_E ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11    1     11      1     11
+17:00-18:00     11    1     11      1     10
+18:00-19:00      1    1     11      1     10
+19:00-20:00      1    1     -1      1     10
+20:00-21:00      1    1     11      1     10
+21:00-22:00      1    1     11      1     10
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 16:00-17:00 ביום רביעי
+This hour is assigned to:
+['Worker_G', 'חוה', 'Worker_H', 'Worker_N', 0, 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11    1     11     11     11
+17:00-18:00     11    1     11     11     10
+18:00-19:00      1    1     11     -1     10
+19:00-20:00      1    1     -1     -1     10
+20:00-21:00      1    1     11     -1     10
+21:00-22:00      1    1     11     -1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_E ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00      1    1     11     -1     -1
+20:00-21:00      1    1      1     -1     -1
+21:00-22:00      1    1      1     -1     -1
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 20:00-21:00 ביום שלישי
+This hour is assigned to:
+['Worker_F', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00      1    1     11     -1     -1
+20:00-21:00      1    1     -1     -1     -1
+21:00-22:00      1    1     -1     -1     -1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      7    -10      0
+9:00-10:00       0    0      7    -10      0
+10:00-11:00      0    0      0     20      0
+11:00-12:00     18    0      0    -10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0     -6      0     17
+21:00-22:00      0    0     -6      0     17
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 7:30-9:00 ביום שלישי
+This hour is assigned to:
+['Worker_H', 'Worker_N']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0     -7    -10      0
+9:00-10:00       0    0     -7    -10      0
+10:00-11:00      0    0      0     20      0
+11:00-12:00     18    0      0    -10      0
+12:00-13:00     18    0     11      0      0
+13:00-14:00     18    0     11      0      0
+14:00-15:00     18    0     11      0      0
+15:00-16:00     18    0     11      0      0
+16:00-17:00     18    0     11      0     17
+17:00-18:00     18    0     11      0     17
+18:00-19:00      0    0     16      0     17
+19:00-20:00      0    0     16      0     17
+20:00-21:00      0    0     -6      0     17
+21:00-22:00      0    0     -6      0     17
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11    1     11     11     11
+17:00-18:00     11    1     11     11     10
+18:00-19:00      1    1     11     -1     10
+19:00-20:00      1    1     -1     -1     10
+20:00-21:00      1    1     11     -1     10
+21:00-22:00      1    1     11     -1     10
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 16:00-17:00 ביום שני
+This hour is assigned to:
+['Worker_C ', 'חוה', 'Worker_H', 0, 0, 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     10
+18:00-19:00      1   11     11     -1     10
+19:00-20:00      1   -1     -1     -1     10
+20:00-21:00      1   -1     11     -1     10
+21:00-22:00      1   -1     11     -1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_N ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_C  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5     -4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12      5     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13     11
+21:00-22:00      0    0      0     13     11
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 16:00-17:00 ביום רביעי
+This hour is assigned to:
+['Worker_G', 'חוה', 'Worker_H', 'Worker_N', 'Worker_M', 0]
+The hour is available, giving it to Worker_B 
+The worker got the hour, add 10 to it
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0     -5      0
+9:00-10:00       0    0      0     -5      0
+10:00-11:00      0    0      0     15      0
+11:00-12:00      0    0      0     -5     -4
+12:00-13:00      0    0      0     -5     11
+13:00-14:00      0    0     12     -5     11
+14:00-15:00      0    0     12     15     11
+15:00-16:00      0    0     12     15     11
+16:00-17:00      0    0     12     15     11
+17:00-18:00      0    0      0     13     11
+18:00-19:00      0    0      0     13     11
+19:00-20:00      0    0      0     13     11
+20:00-21:00      0    0      0     13     11
+21:00-22:00      0    0      0     13     11
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_F ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_H ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_H ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_C  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_E ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_F ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     10
+18:00-19:00      1   11     11     -1     10
+19:00-20:00      1   -1     -1     -1     10
+20:00-21:00      1   -1     11     -1     10
+21:00-22:00      1   -1     11     -1     10
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 18:00-19:00 ביום ראשון
+This hour is assigned to:
+['חוה', 'Worker_F', 0, 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+2
+After assigning hour, check next hour
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+3
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+4
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     10
+18:00-19:00     11   11     11     -1     10
+19:00-20:00     11   -1     -1     -1     10
+20:00-21:00     11   -1     11     -1     10
+21:00-22:00     11   -1     11     -1     10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_N ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00      1    1     11     -1     -1
+20:00-21:00      1    1     -1     -1     -1
+21:00-22:00      1    1     -1     -1     -1
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 19:00-20:00 ביום ראשון
+This hour is assigned to:
+['Worker_F', 'Worker_M']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00     -1    1     11     -1     -1
+20:00-21:00     -1    1     -1     -1     -1
+21:00-22:00     -1    1     -1     -1     -1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_E ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_D ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_F ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_J ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_C  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_H ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00     -1    1     11     -1     -1
+20:00-21:00     -1    1     -1     -1     -1
+21:00-22:00     -1    1     -1     -1     -1
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 19:00-20:00 ביום שני
+This hour is assigned to:
+['Worker_F', 'Worker_H']
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00        0    0      0      0      0
+9:00-10:00       0    0      0      0      0
+10:00-11:00      0    0      0      0      0
+11:00-12:00     11   11     11     11     -1
+12:00-13:00     11   11     11     11     -1
+13:00-14:00     11   11     -1     11     -1
+14:00-15:00     11   11     11     11     11
+15:00-16:00     11   11     11     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     11
+18:00-19:00     11   11     11     11     11
+19:00-20:00     -1   -1     11     -1     -1
+20:00-21:00     -1   -1     -1     -1     -1
+21:00-22:00     -1   -1     -1     -1     -1
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_N ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     10
+18:00-19:00     11   11     11     -1     10
+19:00-20:00     11   -1     -1     -1     10
+20:00-21:00     11   -1     11     -1     10
+21:00-22:00     11   -1     11     -1     10
+בכל הימים הפנויים של העובד כבר היו 8 שעות, בחרנו בלית ברירה יום רנדומלי
+העובד רוצה את שעה 17:00-18:00 ביום חמישי
+This hour is assigned to:
+['Worker_B ', 'Worker_G', 'Worker_E', 'Worker_Iה', 'חוה', 0]
+The hour is available, giving it to Worker_M
+The worker got the hour, add 10 to it
+Number hours for the worker today:
+1
+After assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+After NOT assigning hour, check next hour
+The worker didnt got the hour, change it to minus the preference level:
+The worker didnt got the hour, change it to minus the preference level:
+             ראשון  שני  שלישי  רביעי  חמישי
+7:30-9:00       11   11     -1     11     11
+9:00-10:00      -1   11     -1     11     -1
+10:00-11:00     11   11     -1     11     11
+11:00-12:00     11   11     -1     11     11
+12:00-13:00     11   11     -1     11     11
+13:00-14:00     -1   11     -1     11     11
+14:00-15:00     11   11     -1     11     11
+15:00-16:00     11   11     -1     11     11
+16:00-17:00     11   11     11     11     11
+17:00-18:00     11   11     11     11     20
+18:00-19:00     11   11     11     -1    -10
+19:00-20:00     11   -1     -1     -1    -10
+20:00-21:00     11   -1     11     -1    -10
+21:00-22:00     11   -1     11     -1    -10
+Finished searching more avilable hour in the day, picking the next worker
+The chosen worker is Worker_Iה ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_I ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_H ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_A ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_G ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_B  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_N ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_F ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is חוה ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_C  ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+The chosen worker is Worker_M ############
+<--All of this worker's hours we're assigned or unavailable, skipping to next worker
+!The draft is... done
+The maximum possible blocks of hours requests is 26460, but the workers' requests were only 136
